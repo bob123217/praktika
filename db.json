@@ -1,5 +1,5 @@
 {
-  "profile": {
-    "login": "admin", "password": "admin" 
-  }
+  "profile": [
+  { "id":1, "login": "admin", "password": "admin" },
+  ]
 }
