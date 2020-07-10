@@ -4,8 +4,8 @@
     {"id":2, "name": "GTA V", "metacritic": "95", "developerId": 2, "genreId": 1 }
    ],
   "developers": [
-    {"id":1, "name": "Naughty Dog", "founded": "1984"},
-    {"id":2, "name": "Rockstar", "founded": "1984"}
+    {"id":1, "name": "Naughty Dog", "founded": "1984", "counry": "Usa"},
+    {"id":2, "name": "Rockstar", "founded": "1984", "counry": "England"}
   ],
   "genres": [
     {"id": 1, "name": "Action"},
