@@ -9,7 +9,7 @@
   ],
   "genres": [
     {"id": 1, "name": "Action"},
-    {"id": 2, "name": "OpenWorld"},
+    {"id": 2, "name": "OpenWorld"}
    ],
   "profile":
   { "id":1, "login": "admin", "password": "admin" }
