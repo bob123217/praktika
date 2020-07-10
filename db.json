@@ -1,4 +1,13 @@
 {
+  "games":[
+    {"id":1, "name": "The Last of Us 2", "metacritic": 94, "developerId": 1, "genreId": 1 }
+   ],
+  "developers":[
+    {"id:1", "name": "Naughty Dog", "founded": 1984}
+  ],
+  "genres": [
+    {"id": 1, "name": "Action"}
+   ],
   "profile":
   { "id":1, "login": "admin", "password": "admin" }
 }
