@@ -1,11 +1,11 @@
 {
   "games":[
-    {"id":1, "name": "The Last of Us 2", "metacritic": 94, "developerId": 1, "genreId": 1 },
-    {"id":2, "name": "GTA V", "metacritic": 95, "developerId": 2, "genreId": 1 }
+    {"id":1, "name": "The Last of Us 2", "metacritic": "94", "developerId": 1, "genreId": 1 },
+    {"id":2, "name": "GTA V", "metacritic": "95", "developerId": 2, "genreId": 1 }
    ],
   "developers":[
-    {"id":1, "name": "Naughty Dog", "founded": 1984},
-    {"id":2, "name": "Rockstar", "founded": 1984}
+    {"id":1, "name": "Naughty Dog", "founded": "1984"},
+    {"id":2, "name": "Rockstar", "founded": "1984"}
   ],
   "genres": [
     {"id": 1, "name": "Action"},
