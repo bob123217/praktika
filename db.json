@@ -1,26 +1,36 @@
 {
   "games": [
     {"id":1, "name": "The Last of Us 2", "metacritic": "94", "developerId": "Naughty Dog", "genreId": "Third-person shooter" },
-    {"id":2, "name": "GTA V", "metacritic": "95", "developerId": "Rockstar", "genreId": "Third-person shooter" },
+    {"id":2, "name": "GTA V", "metacritic": "95", "developerId": "Rockstar games", "genreId": "Third-person shooter" },
     {"id":3, "name": "Doom", "metacritic": "95", "developerId": "id Software", "genreId": "First-person shooter" },
     {"id":4, "name": "Devil May Cry V", "metacritic": "95", "developerId": "Capcom", "genreId": "Slasher" },
     {"id":5, "name": "Mortal Combat 11", "metacritic": "95", "developerId": "NetherRealm Studios", "genreId": "Fighting" },
-    {"id":6, "name": "Comix Zone", "metacritic": "95", "developerId": "SEGA", "genreId": "Beat 'em up" }
+    {"id":6, "name": "Comix Zone", "metacritic": "95", "developerId": "SEGA", "genreId": "Beat 'em up" },
+    {"id":7, "name": "Warhammer 40000: Dawn of War", "metacritic": "95", "developerId": "Relic Entertainment", "genreId": "RTS" },
+    {"id":8, "name": "Max Payne 3", "metacritic": "95", "developerId": "Rockstar games", "genreId": "Third-person shooter" },
+    {"id":9, "name": "Need for Speed: Underground 2", "metacritic": "95", "developerId": "Electronic Arts", "genreId": "Racing" },
+    {"id":10, "name": "Portal 2", "metacritic": "95", "developerId": "Valve", "genreId": "Logic" }
    ],
   "developers": [
     {"id":1, "name": "Naughty Dog", "founded": "1984", "country": "US"},
-    {"id":2, "name": "Rockstar", "founded": "1998", "country": "UK"},
+    {"id":2, "name": "Rockstar games", "founded": "1998", "country": "UK"},
     {"id":3, "name": "id Software", "founded": "1991", "country": "US"},
     {"id":4, "name": "Capcom", "founded": "1979", "country": "JP"},
     {"id":5, "name": "NetherRealm Studios", "founded": "2010", "country": "US"},
-    {"id":6, "name": "SEGA", "founded": "1960", "country": "JP"}
+    {"id":6, "name": "SEGA", "founded": "1960", "country": "JP"},
+    {"id":7, "name": "Relic Entertainment", "founded": "1997", "country": "CA"},
+    {"id":8, "name": "Electronic Arts", "founded": "1982", "country": "US"},
+    {"id":9, "name": "Valve", "founded": "1996", "country": "US"}
   ],
   "genres": [
     {"id": 1, "name": "Third-person shooter"},
     {"id": 2, "name": "First-person shooter"},
     {"id": 3, "name": "Slasher"},
     {"id": 4, "name": "Fighting"},
-    {"id": 5, "name": "Beat 'em up"}
+    {"id": 5, "name": "Beat 'em up"},
+    {"id": 6, "name": "RTS"},
+    {"id": 7, "name": "Racing"},
+    {"id": 8, "name": "Logic"}
    ],
   "profile":
   { "id":1, "login": "admin", "password": "admin" }
