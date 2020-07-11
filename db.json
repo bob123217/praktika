@@ -7,7 +7,7 @@
   "developers": [
     {"id":1, "name": "Naughty Dog", "founded": "1984", "country": "US"},
     {"id":2, "name": "Rockstar", "founded": "1998", "country": "UK"},
-    {"id":3, "name": "Ubisoft", "founded": "1998", "country": "UK"}
+    {"id":3, "name": "id Software", "founded": "1991", "country": "US"}
   ],
   "genres": [
     {"id": 1, "name": "Third-person shooter"},
