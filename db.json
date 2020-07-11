@@ -1,15 +1,17 @@
 {
   "games": [
-    {"id":1, "name": "The Last of Us 2", "metacritic": "94", "developerId": 1, "genreId": 1 },
-    {"id":2, "name": "GTA V", "metacritic": "95", "developerId": 2, "genreId": 1 }
+    {"id":1, "name": "The Last of Us 2", "metacritic": "94", "developerId": "Naughty Dog", "genreId": "Third-person shooter" },
+    {"id":2, "name": "GTA V", "metacritic": "95", "developerId": "Rockstar", "genreId": "Third-person shooter" },
+    {"id":3, "name": "Doom", "metacritic": "95", "developerId": "id Software", "genreId": "First-person shooter" },
    ],
   "developers": [
-    {"id":1, "name": "Naughty Dog", "founded": "1984", "country": "Usa"},
-    {"id":2, "name": "Rockstar", "founded": "1984", "country": "England"}
+    {"id":1, "name": "Naughty Dog", "founded": "1984", "country": "US"},
+    {"id":2, "name": "Rockstar", "founded": "1998", "country": "UK"},
+    {"id":3, "name": "Ubisoft", "founded": "1998", "country": "UK"},
   ],
   "genres": [
-    {"id": 1, "name": "Action"},
-    {"id": 2, "name": "OpenWorld"}
+    {"id": 1, "name": "Third-person shooter"},
+    {"id": 2, "name": "First-person shooter"},
    ],
   "profile":
   { "id":1, "login": "admin", "password": "admin" }
