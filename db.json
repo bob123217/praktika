@@ -1,14 +1,14 @@
 {
   "games": [
     {"id":1, "name": "The Last of Us 2", "metacritic": "94", "developerId": "Naughty Dog", "genreId": "Third-person shooter" },
-    {"id":2, "name": "GTA V", "metacritic": "95", "developerId": "Rockstar games", "genreId": "Third-person shooter" },
-    {"id":3, "name": "Doom", "metacritic": "95", "developerId": "id Software", "genreId": "First-person shooter" },
-    {"id":4, "name": "Devil May Cry V", "metacritic": "95", "developerId": "Capcom", "genreId": "Slasher" },
-    {"id":5, "name": "Mortal Combat 11", "metacritic": "95", "developerId": "NetherRealm Studios", "genreId": "Fighting" },
-    {"id":6, "name": "Comix Zone", "metacritic": "95", "developerId": "SEGA", "genreId": "Beat 'em up" },
-    {"id":7, "name": "Warhammer 40000: Dawn of War", "metacritic": "95", "developerId": "Relic Entertainment", "genreId": "RTS" },
-    {"id":8, "name": "Max Payne 3", "metacritic": "95", "developerId": "Rockstar games", "genreId": "Third-person shooter" },
-    {"id":9, "name": "Need for Speed: Underground 2", "metacritic": "95", "developerId": "Electronic Arts", "genreId": "Racing" },
+    {"id":2, "name": "GTA V", "metacritic": "96", "developerId": "Rockstar games", "genreId": "Third-person shooter" },
+    {"id":3, "name": "Doom", "metacritic": "83", "developerId": "id Software", "genreId": "First-person shooter" },
+    {"id":4, "name": "Devil May Cry V", "metacritic": "88", "developerId": "Capcom", "genreId": "Slasher" },
+    {"id":5, "name": "Mortal Combat 11", "metacritic": "82", "developerId": "NetherRealm Studios", "genreId": "Fighting" },
+    {"id":6, "name": "Comix Zone", "metacritic": "81", "developerId": "SEGA", "genreId": "Beat 'em up" },
+    {"id":7, "name": "Warhammer 40000: Dawn of War", "metacritic": "86", "developerId": "Relic Entertainment", "genreId": "RTS" },
+    {"id":8, "name": "Max Payne 3", "metacritic": "87", "developerId": "Rockstar games", "genreId": "Third-person shooter" },
+    {"id":9, "name": "Need for Speed: Underground 2", "metacritic": "82", "developerId": "Electronic Arts", "genreId": "Racing" },
     {"id":10, "name": "Portal 2", "metacritic": "95", "developerId": "Valve", "genreId": "Logic" }
    ],
   "developers": [
