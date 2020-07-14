@@ -9,7 +9,16 @@
     {"id":7, "name": "Warhammer 40000: Dawn of War", "metacritic": "86", "developerId": "Relic Entertainment", "genreId": "RTS" },
     {"id":8, "name": "Max Payne 3", "metacritic": "87", "developerId": "Rockstar games", "genreId": "Third-person shooter" },
     {"id":9, "name": "Need for Speed: Underground 2", "metacritic": "82", "developerId": "Electronic Arts", "genreId": "Racing" },
-    {"id":10, "name": "Portal 2", "metacritic": "95", "developerId": "Valve", "genreId": "Logic" }
+    {"id":10, "name": "Portal 2", "metacritic": "95", "developerId": "Valve", "genreId": "Logic" },
+    {"id":11, "name": "Red Dead Redemption 2", "metacritic": "93", "developerId": "Rockstar games", "genreId": "Third-person shooter" },
+    {"id":12, "name": "sonic & sega all-stars racing mega", "metacritic": "79", "developerId": "SEGA", "genreId": "Racing" },
+    {"id":13, "name": "Devil May Cry 3", "metacritic": "93", "developerId": "Capcom", "genreId": "Slasher" },
+    {"id":14, "name": "Street Fighter 5", "metacritic": "75", "developerId": "Capcom", "genreId": "Fighting" },
+    {"id":15, "name": "Wolfenstein II: The New Colossus", "metacritic": "93", "developerId": "id Software", "genreId": "First-person shooter" },
+    {"id":16, "name": "Crash bandicoot", "metacritic": "84", "developerId": "Naughty Dog", "genreId": "Arcade" },
+    {"id":17, "name": "Half-Life 2", "metacritic": "96", "developerId": "Valve", "genreId": "First-person shooter" },
+    {"id":18, "name": "Streets of Rage 2", "metacritic": "84", "developerId": "SEGA", "genreId": "Beat 'em up" },
+    {"id":19, "name": "Crash Team Racing", "metacritic": "82", "developerId": "Naughty Dog", "genreId": "Racing" }
    ],
   "developers": [
     {"id":1, "name": "Naughty Dog", "founded": "1984", "country": "US"},
@@ -30,7 +39,8 @@
     {"id": 5, "name": "Beat 'em up"},
     {"id": 6, "name": "RTS"},
     {"id": 7, "name": "Racing"},
-    {"id": 8, "name": "Logic"}
+    {"id": 8, "name": "Logic"},
+    {"id": 9, "name": "Arcade"}
    ],
   "profile":
   { "id":1, "login": "admin", "password": "admin" }
