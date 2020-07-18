@@ -33,7 +33,7 @@
   ],
   "genres": [
     {"id": 1, "name": "TPS"},
-    {"id": 2, "name": "First-person shooter"},
+    {"id": 2, "name": "FPS"},
     {"id": 3, "name": "Slasher"},
     {"id": 4, "name": "Fighting"},
     {"id": 5, "name": "Beat 'em up"},
