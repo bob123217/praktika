@@ -1,22 +1,22 @@
 {
   "games": [
-    {"id":1, "name": "The Last of Us 2", "metacritic": "94", "developerId": "Naughty Dog", "genreId": "Third-person shooter" },
-    {"id":2, "name": "GTA V", "metacritic": "96", "developerId": "Rockstar games", "genreId": "Third-person shooter" },
-    {"id":3, "name": "Doom", "metacritic": "83", "developerId": "id Software", "genreId": "First-person shooter" },
+    {"id":1, "name": "The Last of Us 2", "metacritic": "94", "developerId": "Naughty Dog", "genreId": "TPS" },
+    {"id":2, "name": "GTA V", "metacritic": "96", "developerId": "Rockstar games", "genreId": "TPS" },
+    {"id":3, "name": "Doom", "metacritic": "83", "developerId": "id Software", "genreId": "FPS" },
     {"id":4, "name": "Devil May Cry V", "metacritic": "88", "developerId": "Capcom", "genreId": "Slasher" },
     {"id":5, "name": "Mortal Combat 11", "metacritic": "82", "developerId": "NetherRealm Studios", "genreId": "Fighting" },
     {"id":6, "name": "Comix Zone", "metacritic": "81", "developerId": "SEGA", "genreId": "Beat 'em up" },
     {"id":7, "name": "Warhammer 40000: Dawn of War", "metacritic": "86", "developerId": "Relic Entertainment", "genreId": "RTS" },
-    {"id":8, "name": "Max Payne 3", "metacritic": "87", "developerId": "Rockstar games", "genreId": "Third-person shooter" },
+    {"id":8, "name": "Max Payne 3", "metacritic": "87", "developerId": "Rockstar games", "genreId": "TPS" },
     {"id":9, "name": "Need for Speed: Underground 2", "metacritic": "82", "developerId": "Electronic Arts", "genreId": "Racing" },
     {"id":10, "name": "Portal 2", "metacritic": "95", "developerId": "Valve", "genreId": "Logic" },
-    {"id":11, "name": "Red Dead Redemption 2", "metacritic": "93", "developerId": "Rockstar games", "genreId": "Third-person shooter" },
+    {"id":11, "name": "Red Dead Redemption 2", "metacritic": "93", "developerId": "Rockstar games", "genreId": "TPS" },
     {"id":12, "name": "sonic & sega all-stars racing mega", "metacritic": "79", "developerId": "SEGA", "genreId": "Racing" },
     {"id":13, "name": "Devil May Cry 3", "metacritic": "93", "developerId": "Capcom", "genreId": "Slasher" },
     {"id":14, "name": "Street Fighter 5", "metacritic": "75", "developerId": "Capcom", "genreId": "Fighting" },
-    {"id":15, "name": "Wolfenstein II: The New Colossus", "metacritic": "93", "developerId": "id Software", "genreId": "First-person shooter" },
+    {"id":15, "name": "Wolfenstein II: The New Colossus", "metacritic": "93", "developerId": "id Software", "genreId": "FPS" },
     {"id":16, "name": "Crash bandicoot", "metacritic": "84", "developerId": "Naughty Dog", "genreId": "Arcade" },
-    {"id":17, "name": "Half-Life 2", "metacritic": "96", "developerId": "Valve", "genreId": "First-person shooter" },
+    {"id":17, "name": "Half-Life 2", "metacritic": "96", "developerId": "Valve", "genreId": "FPS" },
     {"id":18, "name": "Streets of Rage 2", "metacritic": "84", "developerId": "SEGA", "genreId": "Beat 'em up" },
     {"id":19, "name": "Crash Team Racing", "metacritic": "82", "developerId": "Naughty Dog", "genreId": "Racing" }
    ],
@@ -32,7 +32,7 @@
     {"id":9, "name": "Valve", "founded": "1996", "country": "US"}
   ],
   "genres": [
-    {"id": 1, "name": "Third-person shooter"},
+    {"id": 1, "name": "TPS"},
     {"id": 2, "name": "First-person shooter"},
     {"id": 3, "name": "Slasher"},
     {"id": 4, "name": "Fighting"},
